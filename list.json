@@ -42,5 +42,16 @@
       "email": "me@ajitkumar.dev",
       "github": "deadlyjack"
     }
+  },
+  {
+    "id":"acode.plugin.codesnip",
+    "name":"CodeSnip",
+    "icon":"",
+    "plugin":"https://raw.githubusercontent.com/3egle/CodeSnip/main/plugin.json",
+    "author":{
+      "name":"Ternenge Emmanuel",
+      "email":"samuelternenge01@gmil.com",
+      "github":"3egle"
+    }
   }
 ]
